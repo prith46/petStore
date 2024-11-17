@@ -1,4 +1,4 @@
-package StepDefinition.Pet;
+package StepDefinition;
 
 import Utilities.PetAPIResources;
 import Utilities.PetPayload;
